@@ -1,5 +1,6 @@
 # Folders
 **/.vscode/
+**/.DS_Store
 
 # Prerequisites
 *.d
