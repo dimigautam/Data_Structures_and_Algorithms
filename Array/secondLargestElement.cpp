@@ -22,6 +22,6 @@ int maxElement(int arr[], int n)
 int main()
 {
     int a1[] = {1, 2, 3, 2, 4, 5, 6, 9, -1, 2, 1};
-    int n = (sizeof(a1) / sizeof(int)) - 1;
+    int n = (sizeof(a1) / sizeof(int));
     cout << maxElement(a1, n);
 }
