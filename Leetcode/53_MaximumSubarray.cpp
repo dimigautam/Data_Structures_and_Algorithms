@@ -1,6 +1,8 @@
 
 #include <iostream>
 #include <vector>
+#include <climits>
+
 using namespace std;
 
 int maxSubArray(vector<int> &nums)
